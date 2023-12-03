@@ -196,7 +196,7 @@
   <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
 </ul>
 
-<h4>XeggeX:</h4>
+<h4>XeggeX (referral link for joining: https://ej.uz/xeggex):</h4>
 <ul>
   <li>MARIA-BTC: https://xeggex.com/market/MARIA_BTC</li>
   <li>MARIA-LTC: https://xeggex.com/market/MARIA_LTC</li>
