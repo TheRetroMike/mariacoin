@@ -196,6 +196,12 @@
   <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
 </ul>
 
+<h4>XeggeX:</h4>
+<ul>
+  <li>MARIA-BTC: https://xeggex.com/market/MARIA_BTC</li>
+  <li>MARIA-LTC: https://xeggex.com/market/MARIA_LTC</li>
+</ul>
+
 <h4>FreiExchange (Norway)</h4>
 <ul>
   <li>MARIA-BTC: https://freiexchange.com/market/MARIA/BTC</li>
