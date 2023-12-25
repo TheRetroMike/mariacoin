@@ -223,7 +223,7 @@
 <hr>
 
 <h3>Team</h3>
-<h4>Founder: Helmuts Meskonis, No Stress Ltd (UK)</h4>
+<h4>Founder: Helmuts Meskonis, Wallet Labs Ltd (UK)</h4>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/helmutsmeskonis/</li>
   <li>Github: https://github.com/helmuc</li>
