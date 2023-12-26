@@ -154,9 +154,10 @@
 <ul>
   <li>YouTube: https://www.youtube.com/@mariacoin</li>
   <li>Twitter: https://twitter.com/TheMariaCoin</li>
+  <li>Facebook: https://www.facebook.com/profile.php?id=61554743203055</li>
   <li>Telegram: https://t.me/themariacoin</li>
   <li>Reddit: https://reddit.com/r/mariacoin</li>
-  <li>(closed) Discord: https://discord.gg/cGsXc3gKeQ (channel closed)</li>
+  <li>Discord: https://discord.gg/cGsXc3gKeQ</li>
 </ul>
 
 <h3>COIN DIRECTORY LISTINGS:</h3>
