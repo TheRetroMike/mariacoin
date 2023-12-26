@@ -139,6 +139,7 @@
   <li>Website: https://www.mariacoin.com</li>
   <li>Maria Core Wallets: https://github.com/hostmaria/mariacoin/releases</li>
   <li>Maria Web Wallet: https://www.mariawallet.com</li>
+  <li>Bootstrap: https://bootstrap.mariacoin.com/</li>
   <li>Official Explorer: https://explorer.mariacoin.com</li>
   <li>CoinExplorer Explorer: https://www.coinexplorer.net/MARIA/</li>
   <li>Maria Whitepaper: https://github.com/hostmaria/mariacoin/blob/main/whitepaper.md</li>
