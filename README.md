@@ -216,6 +216,7 @@
 </ul>
 
 <h4>StakeCube Trading Pairs (Warning: insolvent exchange)</h4>
+<p>(referral link for joining: https://ej.uz/stakecube)</p>
 <ul>
   <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
   <li>Maria/SCC: https://stakecube.net/app/exchange/maria_scc</li>
