@@ -132,7 +132,7 @@
 	<tbody>
 </table>
 
-You can easily Verify this yourself from the MARIA codebase: https://github.com/hostmaria/mariacoin/blob/main/src/validation.cpp
+You can easily Verify this yourself from the MARIA codebase (starting from the line 809): https://github.com/hostmaria/mariacoin/blob/main/src/validation.cpp
 
 ====
 
