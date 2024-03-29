@@ -132,6 +132,8 @@
 	<tbody>
 </table>
 
+You can easily Verify this yourself from the MARIA codebase: https://github.com/hostmaria/mariacoin/blob/main/src/validation.cpp
+
 ====
 
 <h3>LINKS</h3>
