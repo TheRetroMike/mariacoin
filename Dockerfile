@@ -11,7 +11,7 @@ RUN mv maria-cli /usr/bin
 RUN rm maria*
 RUN wget https://github.com/hostmaria/mariacoin/releases/download/v5.5.1/util.zip
 RUN unzip util.zip
-RUN chmod +x /util/fetch-params.sh
+RUN chmod +x util/fetch-params.sh
 RUN ./util/fetch-params.sh
 RUN rm -R util
 RUN rm util.zip
